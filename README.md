@@ -27,8 +27,17 @@ Overall success rate is ~70%, indicating a 30% failure rate requiring investigat
 Decline rates are evenly distributed across channels, suggesting issuer-side issues
 Top decline reasons include insufficient funds and authorization failures
 
+📊 **Excel Dashboard (Live)**
+You can view the Excel version of the dashboard here:
+https://1drv.ms/x/c/7f9e2bd814e50d8c/IQDcAehZcCvHTJBvgwHVTEoZAQDiCj54U7uLHourE5ZGEdQ?e=mBY6ln
+
 📈 Dashboard Preview
 ![Dashboard](images/dashboard.png)
+
+📌 **Project Highlights**
+Built dashboard using Power BI
+Recreated the same dashboard in Excel (Live version available)
+Used SQL for transaction analysis and KPI calculation
 
 📂 **Project Structure**
 dataset → raw transaction data
