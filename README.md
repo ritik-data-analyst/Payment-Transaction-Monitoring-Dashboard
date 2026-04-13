@@ -47,3 +47,7 @@ dashboard → Power BI file
 
 🚀 **Business Impact**
 This dashboard helps operations teams monitor transaction performance, quickly identify failure trends, and take corrective actions to improve success rates.
+
+📂 Power BI File
+The Power BI dashboard file (.pbix) is included in this repository.
+To view the dashboard, download the file and open it using Power BI Desktop.
